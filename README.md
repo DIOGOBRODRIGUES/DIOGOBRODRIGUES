@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 
 <a href="https://github.com/DIOGOBRODRIGUES/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-seven-omega-95.vercel.app/api?username=DIOGOBRODRIGUES" />
+  <img height=200 align="center" src="https://github-readme-stats-seven-omega-95.vercel.app/api?username=DIOGOBRODRIGUES&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/DIOGOBRODRIGUES/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-seven-omega-95.vercel.app/api/top-langs?username=DIOGOBRODRIGUES&layout=compact&langs_count=8&card_width=320" />
