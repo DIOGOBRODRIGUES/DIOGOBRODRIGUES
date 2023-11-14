@@ -6,7 +6,7 @@
   <img height=200 align="center" src="https://github-readme-stats-seven-omega-95.vercel.app/api?username=DIOGOBRODRIGUES&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/DIOGOBRODRIGUES/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-seven-omega-95.vercel.app/api/top-langs?username=DIOGOBRODRIGUES&layout=compact&langs_count=8&card_width=320&hide=scss" />
+  <img height=200 align="center" src="https://github-readme-stats-seven-omega-95.vercel.app/api/top-langs?username=DIOGOBRODRIGUES&layout=compact&langs_count=8&card_width=320&hide=scss&theme=radical" />
 </a>
 
 
