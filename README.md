@@ -2,12 +2,21 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 
-<a href="https://github.com/DIOGOBRODRIGUES/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DIOGOBRODRIGUES&show_icons=true&theme=radical" />
- 
+<a href="https://github.com/DIOGOBRODRIGUES">
+  <img
+    height="200"
+    align="center"
+    alt="Estatísticas do GitHub"
+    src="https://github-stats-extended.vercel.app/api?username=DIOGOBRODRIGUES&show_icons=true&theme=radical"
+  />
 </a>
-<a href="https://github.com/DIOGOBRODRIGUES/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIOGOBRODRIGUES&layout=compact&langs_count=8&hide=scss,html,css&card_width=320&theme=radical&exclude_repo=reveajs" />
+<a href="https://github.com/DIOGOBRODRIGUES?tab=repositories">
+  <img
+    height="200"
+    align="center"
+    alt="Linguagens mais utilizadas"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=DIOGOBRODRIGUES&layout=compact&langs_count=8&hide=scss,html,css&card_width=320&theme=radical&exclude_repo=reveajs"
+  />
 </a>
 
 
